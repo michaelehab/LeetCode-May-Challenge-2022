@@ -11,3 +11,4 @@ This Repository contains my solutions to May LeetCoding Challenge 2022 problems.
 2. <a href="./905.Sort-Array-By-Parity.cpp">Sort Array By Parity</a>
 3. <a href="./581.Shortest-Unsorted-Continuous-Subarray.cpp">Shortest Unsorted Continuous Subarray</a>
 4. <a href="./1679.Max-Number-of-K-Sum-Pairs.cpp">Max Number of K-Sum Pairs</a>
+5. <a href="./225.Implement-Stack-using-Queues.cpp">Implement Stack using Queues</a>
