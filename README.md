@@ -14,3 +14,4 @@ This Repository contains my solutions to May LeetCoding Challenge 2022 problems.
 5. <a href="./225.Implement-Stack-using-Queues.cpp">Implement Stack using Queues</a>
 6. <a href="./1209.Remove-All-Adjacent-Duplicates-in-String-II.cpp">Remove All Adjacent Duplicates in String II</a>
 7. <a href="./456.132-Pattern.cpp">132 Pattern</a>
+8. <a href="./341.Flatten-Nested-List-Iterator.cpp">Flatten Nested List Iterator</a>
