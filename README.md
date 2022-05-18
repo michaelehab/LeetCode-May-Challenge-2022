@@ -24,3 +24,4 @@ This Repository contains my solutions to May LeetCoding Challenge 2022 problems.
 15. <a href="./1302.Deepest-Leaves-Sum.cpp">Deepest Leaves Sum</a>
 16. <a href="./1091.Shortest-Path-in-Binary-Matrix.cpp">Shortest Path in Binary Matrix</a>
 17. <a href="./1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.cpp">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a>
+18. <a href="./1192.Critical-Connections-in-a-Network.cpp">Critical Connections in a Network</a>
