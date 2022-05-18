@@ -1,10 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-	vector<vector<int>> graph;
-
-	vector<int> firstTime, minTime, visited;
-	int time = 1;
+    vector<vector<int>> graph;
+    vector<int> firstTime, minTime, visited;
+    int time = 1;
 
 	void dfs(int node, int parent = -1) {
 		firstTime[node] = minTime[node] = time++;
@@ -25,7 +24,7 @@ public:
 			graph[a].push_back(b);
 			graph[b].push_back(a);
 		}
-        
+
 		dfs(0);
 		return ans;
 	}
