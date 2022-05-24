@@ -13,7 +13,7 @@ public:
 
         int curr = 0, ans = 0;
         for(int i = 0; i <= s.size(); i++) {
-            // Finding longest lrngth of a Valid substring
+            // Finding longest length of a Valid substring
             if(s[i] == 'V') curr++;
             else {
                 ans = max(ans, curr);
