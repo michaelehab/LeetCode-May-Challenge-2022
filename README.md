@@ -32,3 +32,4 @@ This Repository contains my solutions to May LeetCoding Challenge 2022 problems.
 23. <a href="./474.Ones-and-Zeroes.cpp">Ones and Zeroes</a>
 24. <a href="./32.Longest-Valid-Parentheses.cpp">Longest Valid Parentheses</a>
 25. <a href="./354.Russian-Doll-Envelopes.cpp">Russian Doll Envelopes</a>
+26. <a href="./191.Number-of-1-Bits.cpp">Number of 1 Bits</a>
